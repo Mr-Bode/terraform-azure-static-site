@@ -1,0 +1,5 @@
+location             = "uksouth"
+resource_group_name  = "rg-terraform-azure-03"
+storage_account_name = "terraformazurebode02"
+index_document       = "index.html"
+source_content       = "<h1> Yo! This website was deplyed using Terraform! </h1>"
